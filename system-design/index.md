@@ -1,17 +1,4 @@
-Good. Let’s make this clean, reusable, and practical — not a 5-page essay.
-
-You want:
-
-- 🧭 A step-by-step system design template
-- 🧠 Heuristics for thinking
-- ❓ Smart questions to ask
-- 🧱 A structure you can follow in interviews
-
-Here it is.
-
----
-
-# 🧩 System Design Interview Template
+# 🧩 System Design Template
 
 ## 0️⃣ Clarify the Problem (Always First)
 
