@@ -243,10 +243,3 @@ Mention:
 Even briefly — it signals maturity.
 
 ---
-
-If you want, we can now:
-
-- Walk through a real system design problem using this template
-- Or I can give you a condensed 60-second “opening move” you can use in interviews to control the room
-
-What level are you targeting — Senior, Staff, or Principal?
